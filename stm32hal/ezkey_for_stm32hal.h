@@ -1,7 +1,7 @@
 #ifndef __KEY_H
 #define __KEY_H
 
-#include "main.h"
+#include "stdint.h"
 
 #define DOUBLECLICK_TIME 1000
 #define KEEPON_TIME      1000
